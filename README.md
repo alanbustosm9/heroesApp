@@ -1,0 +1,1 @@
+Aplicación de React creada a base de un curso de Udemy utilizando imagenes bases en la carpeta
